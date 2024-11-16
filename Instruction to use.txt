@@ -1,0 +1,5 @@
+password: stake
+
+Soft work like that - firstly you open stake page, then go to mines game.
+Then launch software and back to mines page, reload it and wait 1-3 mins to upload.
+After that soft will be ready to give you predicts
